@@ -9,7 +9,9 @@ The user can play 10 times and the number of winnings will be displayed.
 
 Rules:
 Snake drinks water.
+
 Water destroys Gun.
+
 Gun kills snake.
 
 
